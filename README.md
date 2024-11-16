@@ -6,7 +6,7 @@
 
     `Problem Statement`
   
-    A bank aims to leverage its customer data to enhance decision-making processes by gaining insights into customer demographics, financial behaviors, and          engagement trends. By understanding the characteristics and needs of different customer segments, the bank seeks to identify opportunities for improving         customer retention, optimizing service offerings, and increasing customer satisfaction.
+    A bank aims to leverage its customer data to enhance decision-making processes by gaining insights into customer demographics, financial behaviors, and engagement trends. By understanding the characteristics and needs of different customer segments, the bank seeks to identify opportunities for improving customer retention, optimizing service offerings, and increasing customer satisfaction.
   
     `Objective`
   
