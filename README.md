@@ -55,7 +55,7 @@
     `Exited`            | Whether the customer has churned (1 = yes, 0 = no)                                  
   
   
-     # Insights
+     # Data Insights
   
 
 
