@@ -36,8 +36,7 @@
 
     ## DATA
 
-    The Bank churn folder contains two datasets for Customer and Account Information. The Customer dataset carries information about the customer details, and 
-    the Account dataset carries information about the customer's financial perfomance.
+    The Bank churn folder contains two datasets for Customer and Account Information. The Customer dataset carries information about the customer details and the Account dataset carries information about the customer's financial perfomance.
 
 
     `CustomerId`        | A unique identifier for each customer                                                           |
