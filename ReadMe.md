@@ -141,7 +141,9 @@ France has a higher proportion of active customers, predominantly male.
 Spain has the lowest number of exited customers, indicating better retention in this region.
 
          ![]('Charts/Customer_Status_by_Geography_and_Gender.PNG')
-Recommendations:
+         
+#### Recommendations:
+
 Targeted Product Development: Develop and tailor banking products to better serve older customers (above 51) to reduce churn rates.
 
 Gender-Specific Strategies: Implement strategies to engage female customers more effectively, considering their lower account balances and different salary trends.
