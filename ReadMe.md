@@ -65,10 +65,10 @@ Demographic Segmentation:
 
 Customer Distribution: France constitutes 50% of the bank’s customer base, with a significant majority being male.
 
-   ![](Charts/Customer_Distribution_By_Geography.PNG)
+   ![](Charts/Customer_Distribution_By_Geography.png)
 Age Distribution: The predominant age cohort of customers ranges from 21 to 50 years.
 
-   ![](Charts/Age_group_of_Customer.PNG)
+   ![image alt](Charts/Age_group_of_customer.png)
 Credit Score Utilization:
 
 Geographical Comparison: Customers in France exhibit higher credit score utilization compared to counterparts in other regions.
