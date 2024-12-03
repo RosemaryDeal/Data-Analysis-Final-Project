@@ -82,13 +82,13 @@
     -  Customer Distribution: France constitutes 50% of the bank’s customer base, with a significant majority being male.
 
     
-              ![image alt](Charts/https://github.com/RosemaryDeal/Data-Analysis-Final-Project/blob/6867202042177dbb5118d564336277848592d8ae/Charts/Customer%20Distribution%20By%20Geography.png)
+              ![image](Charts/https://github.com/RosemaryDeal/Data-Analysis-Final-Project/blob/6867202042177dbb5118d564336277848592d8ae/Charts/Customer%20Distribution%20By%20Geography.png)
 
     
     -  Age Distribution: The predominant age cohort of customers ranges from 21 to 50 years.
 
 
-              ![image alt](Charts/https://github.com/RosemaryDeal/Data-Analysis-Final-Project/blob/6867202042177dbb5118d564336277848592d8ae/Charts/Age_group_of_customer.png)
+              ![image](Charts/https://github.com/RosemaryDeal/Data-Analysis-Final-Project/blob/6867202042177dbb5118d564336277848592d8ae/Charts/Age_group_of_customer.png)
 
 
     Credit Score Utilization:
@@ -96,7 +96,7 @@
     - Geographical Comparison: Customers in France exhibit higher credit score utilization compared to counterparts in other regions.
 
 
-               ![image alt](Charts/https://github.com/RosemaryDeal/Data-Analysis-Final-Project/blob/6867202042177dbb5118d564336277848592d8ae/Charts/Location%20CreditScore.png)
+               ![image](Charts/https://github.com/RosemaryDeal/Data-Analysis-Final-Project/blob/6867202042177dbb5118d564336277848592d8ae/Charts/Location%20CreditScore.png)
 
 
     - Age Correlation: There is a positive correlation between younger age groups and higher credit scores.
@@ -108,13 +108,13 @@
     - Product Adoption: Customers with longer tenure hold a greater number of bank products.
 
 
-               ![image alt](Charts/https://github.com/RosemaryDeal/Data-Analysis-Final-Project/blob/6867202042177dbb5118d564336277848592d8ae/Charts/Average_Number_of_Products.png)
+               ![image](Charts/https://github.com/RosemaryDeal/Data-Analysis-Final-Project/blob/6867202042177dbb5118d564336277848592d8ae/Charts/Average_Number_of_Products.png)
 
     
     - Credit Card Usage: A negative trend is observed in credit card usage among longer-tenured customers.
 
 
-                ![image alt](Charts/https://github.com/RosemaryDeal/Data-Analysis-Final-Project/blob/6867202042177dbb5118d564336277848592d8ae/Charts/Creditcard%20against%20Tenure.png)
+                ![image](Charts/https://github.com/RosemaryDeal/Data-Analysis-Final-Project/blob/6867202042177dbb5118d564336277848592d8ae/Charts/Creditcard%20against%20Tenure.png)
 
     
     - Account Balance Retention: Longer-tenured customers tend to maintain lower account balances.
@@ -124,7 +124,7 @@
     - High-Balance Accounts: A minimal number of customers maintain balances exceeding €200,000, with only one customer surpassing €250,000.
 
 
-                 ![image alt](Charts/https://github.com/RosemaryDeal/Data-Analysis-Final-Project/blob/6867202042177dbb5118d564336277848592d8ae/Charts/Customer%20Distribution%20by%20Balance.png)
+                 ![image](Charts/https://github.com/RosemaryDeal/Data-Analysis-Final-Project/blob/6867202042177dbb5118d564336277848592d8ae/Charts/Customer%20Distribution%20by%20Balance.png)
 
 
     Gender and Age Insights:
@@ -134,7 +134,7 @@
     - Male customers consistently have higher balances across all age groups compared to female customers.
 
 
-                  ![image alt](Charts/https://github.com/RosemaryDeal/Data-Analysis-Final-Project/blob/6867202042177dbb5118d564336277848592d8ae/Charts/Average_Balance_by_Gender_and_Age_Group.png)
+                  ![image](Charts/https://github.com/RosemaryDeal/Data-Analysis-Final-Project/blob/6867202042177dbb5118d564336277848592d8ae/Charts/Average_Balance_by_Gender_and_Age_Group.png)
 
     
 
@@ -157,7 +157,7 @@
        -  Salary Growth: Female customers demonstrate a steeper increase in estimated salaries compared to males.
 
 
-                         ![image alt](Charts/https://github.com/RosemaryDeal/Data-Analysis-Final-Project/blob/6867202042177dbb5118d564336277848592d8ae/Charts/Average_Estimated_Salary_by_Gender_and_Age_Group.png)
+                         ![image](Charts/https://github.com/RosemaryDeal/Data-Analysis-Final-Project/blob/6867202042177dbb5118d564336277848592d8ae/Charts/Average_Estimated_Salary_by_Gender_and_Age_Group.png)
 
 
                      
@@ -167,7 +167,7 @@
     - Tenure vs. Churn Rate: Customers with moderate tenure exhibit higher churn rates.
 
 
-                  ![image alt](Charts/https://github.com/RosemaryDeal/Data-Analysis-Final-Project/blob/6867202042177dbb5118d564336277848592d8ae/Charts/Churn%20Rate%20By%20Tenure%20Category.png)
+                  ![image](Charts/https://github.com/RosemaryDeal/Data-Analysis-Final-Project/blob/6867202042177dbb5118d564336277848592d8ae/Charts/Churn%20Rate%20By%20Tenure%20Category.png)
                   
 
 
@@ -178,7 +178,7 @@
     - Customers above 51 exhibit significantly higher churn rates, suggesting potential gaps in product offerings for older customers.
 
 
-                  ![image alt](Charts/https://github.com/RosemaryDeal/Data-Analysis-Final-Project/blob/6867202042177dbb5118d564336277848592d8ae/Charts/Churn%20Rate%20By%20Age%20Group.png)
+                  ![image](Charts/https://github.com/RosemaryDeal/Data-Analysis-Final-Project/blob/6867202042177dbb5118d564336277848592d8ae/Charts/Churn%20Rate%20By%20Age%20Group.png)
 
 
 
@@ -194,7 +194,7 @@
     - Spain has the lowest number of exited customers, indicating better retention in this region.
 
 
-                   ![image alt](Charts/https://github.com/RosemaryDeal/Data-Analysis-Final-Project/blob/6867202042177dbb5118d564336277848592d8ae/Charts/Customer%20Status%20by%20Geography%20and%20Gender.png)
+                   ![image](Charts/https://github.com/RosemaryDeal/Data-Analysis-Final-Project/blob/6867202042177dbb5118d564336277848592d8ae/Charts/Customer%20Status%20by%20Geography%20and%20Gender.png)
 
 
   
